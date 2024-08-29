@@ -1,0 +1,26 @@
+  git --version
+    2  git config --global user.name
+    3  git config --global user.soumya
+    4  clear
+    5  git clone https://github.com/Soumya11-cloud/git-commands.git
+    6  ls
+    7  cd filename
+    8  cd git commads
+    9  cd first
+   10  touch first
+   11  ls
+   12  git --version
+   13  mkdir file
+   14  ls
+   15  cd file
+   16  ls
+   17  git init
+   18  ls -a
+   19  ls
+   20  clear
+   21  git config --global user.name "soumya"
+   22  git config --global user.email "kishanksheersagar@gmail.com"
+   23  ls
+   24  git config --list
+   25  ls
+   26  history
